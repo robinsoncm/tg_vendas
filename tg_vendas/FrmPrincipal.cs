@@ -266,7 +266,16 @@ namespace LES_15_II_N
 
         }
 
+        private void clientesToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
         }
+
+        private void FrmPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 
         
     }

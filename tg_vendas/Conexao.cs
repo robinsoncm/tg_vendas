@@ -27,7 +27,7 @@ namespace LES_15_II_N
             if (bActive){
                 string _conn;
                 _conn = "User=SYSDBA;Password=masterkey;"
-                                 + @"Database=C:\Fatec\LES_15_II_N\LES_15_II_N\DADOS.fdb;"
+                                 + @"Database=C:\Fatec\tg_vendas\tg_vendas\DADOS.fdb;"
                                  + "DataSource=localhost;Port=3050;"
                                  + "Dialect=3;Charset=WIN1252;Role=;"
                                  + "Connection lifetime=0;"

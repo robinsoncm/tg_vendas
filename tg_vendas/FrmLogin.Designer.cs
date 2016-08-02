@@ -94,7 +94,7 @@
             // 
             // btnsair
             // 
-            this.btnsair.Location = new System.Drawing.Point(12, 283);
+            this.btnsair.Location = new System.Drawing.Point(47, 283);
             this.btnsair.Name = "btnsair";
             this.btnsair.Size = new System.Drawing.Size(75, 23);
             this.btnsair.TabIndex = 6;
@@ -104,7 +104,7 @@
             // 
             // btnok
             // 
-            this.btnok.Location = new System.Drawing.Point(193, 244);
+            this.btnok.Location = new System.Drawing.Point(270, 169);
             this.btnok.Name = "btnok";
             this.btnok.Size = new System.Drawing.Size(75, 23);
             this.btnok.TabIndex = 7;
@@ -115,7 +115,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(72, 14);
+            this.pictureBox1.Location = new System.Drawing.Point(113, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(140, 103);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -127,7 +127,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.ClientSize = new System.Drawing.Size(289, 318);
+            this.ClientSize = new System.Drawing.Size(361, 318);
             this.Controls.Add(this.btnok);
             this.Controls.Add(this.btnsair);
             this.Controls.Add(this.chbmostrar);
@@ -142,7 +142,7 @@
             this.MinimizeBox = false;
             this.Name = "FrmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "VENDAS LES - LOGIN";
+            this.Text = "LOGIN -  GERENCIADOR DE VENDAS";
             this.Load += new System.EventHandler(this.FrmLogin_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FrmLogin_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
