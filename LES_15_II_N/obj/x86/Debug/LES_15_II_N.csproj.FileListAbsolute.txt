@@ -1,0 +1,120 @@
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\bin\Debug\LES_14_II_N.exe
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\bin\Debug\LES_14_II_N.pdb
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csproj.GenerateResource.Cache
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_14_II_N.exe
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_14_II_N.pdb
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csprojResolveAssemblyReference.cache
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmBanco.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmSenha.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmCbo.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmHorario.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmBairro.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmDepto.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmEstado.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncao.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncionario.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmMunicipio.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPais.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPrincipal.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmSobre.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmTip_Horar.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmLogin.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas\LES_15_II_N\obj\x86\Debug\LES_15_II_N.Properties.Resources.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_14_II_N.exe
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_14_II_N.pdb
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\bin\Debug\LES_14_II_N.exe
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\bin\Debug\LES_14_II_N.pdb
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csprojResolveAssemblyReference.cache
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmBanco.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmSenha.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmCbo.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmHorario.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmBairro.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmDepto.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmEstado.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncao.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncionario.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmMunicipio.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPais.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPrincipal.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmSobre.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmTip_Horar.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmLogin.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.Properties.Resources.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Sistema de Vendas - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csproj.GenerateResource.Cache
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_14_II_N.exe
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_14_II_N.pdb
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\bin\Debug\LES_14_II_N.exe
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\bin\Debug\LES_14_II_N.pdb
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csprojResolveAssemblyReference.cache
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmCbo.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmHorario.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmBairro.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmDepto.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmEstado.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncao.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncionario.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmMunicipio.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPais.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPrincipal.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmSobre.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmTip_Horar.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmLogin.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.Properties.Resources.resources
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csproj.GenerateResource.Cache
+C:\Users\SAMUEL\Documents\A D S\5º Semestre\Laboratório de Engenharia de Software\Pasta Sistema de vendas\Sistema de Vendas - Copia - Copia\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmEndereco.resources
+C:\Fatec\Ads\LES_15_II_N\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Fatec\Ads\LES_15_II_N\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmEndereco.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmCbo.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmHorario.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmBairro.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmDepto.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmEstado.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncao.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncionario.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmMunicipio.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPais.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPrincipal.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmSobre.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmTip_Horar.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmLogin.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.Properties.Resources.resources
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csproj.GenerateResource.Cache
+C:\Fatec\Ads\LES_15_II_N\bin\Debug\LES_15_II_N.exe
+C:\Fatec\Ads\LES_15_II_N\bin\Debug\LES_15_II_N.pdb
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.exe
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.pdb
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csprojResolveAssemblyReference.cache
+C:\Fatec\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmUsuario.resources
+C:\Fatec_\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.exe
+C:\Fatec_\Ads\LES_15_II_N\obj\x86\Debug\LES_15_II_N.pdb
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.exe
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.pdb
+C:\Fatec\LES_15_II_N\LES_15_II_N\bin\Debug\LES_15_II_N.exe
+C:\Fatec\LES_15_II_N\LES_15_II_N\bin\Debug\LES_15_II_N.pdb
+C:\Fatec\LES_15_II_N\LES_15_II_N\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csprojResolveAssemblyReference.cache
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmEndereco.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmCbo.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmHorario.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmBairro.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmDepto.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmEstado.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncao.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmFuncionario.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmMunicipio.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPais.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmPrincipal.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmSobre.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmTip_Horar.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmLogin.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.FrmUsuario.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.Properties.Resources.resources
+C:\Fatec\LES_15_II_N\LES_15_II_N\obj\x86\Debug\LES_15_II_N.csproj.GenerateResource.Cache
